@@ -19,10 +19,6 @@ A complete full-stack grocery shop application with inventory management, shoppi
 - Update order status
 - Low stock alerts
 
-## 📋 Requirements
-
-- Python 3.7+
-- Modern web browser
 
 ## ⚙️ Installation
 
@@ -52,12 +48,4 @@ python -m http.server 8080
 
 Then open `http://localhost:8080` in your browser
 
-## 🎨 Color Theme
 
-The app uses a darker, more subtle color palette:
-- Primary: Dark Olive Green (#2d5016)
-- Secondary: Slate Gray
-- Accent: Amber
-- Clean, professional design
-
-## 📁 Project Structure
