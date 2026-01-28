@@ -1,6 +1,6 @@
 # 🛒 FreshMart Grocery Shop
 
-A complete full-stack grocery shop application with inventory management, shopping cart, and order tracking.
+A full-stack grocery shop application with inventory management, shopping cart, and order tracking.
 
 ## 🚀 Features
 
